@@ -5,4 +5,6 @@ Crossover: Partially-mapped crossover (PMX)
 
 Mutation: Exchange-Mutation (EM) operator
 
-Reference: AI techniques for game programming - Mat Buckland
+Reference: 
+
+		AI techniques for game programming - Mat Buckland
